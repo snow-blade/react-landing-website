@@ -1,0 +1,100 @@
+{
+    "Header": {
+
+        "title": "We are a Social Media Marketing Agency",
+        "paragraph": "Social Media Marketing Agency📣 -Facebook and Instagram Ads -Website Conception -Graphic Design "
+
+    },
+    "About": {
+        "paragraph": "We are a team of passionate young developpers and graphic designers from Burundi, we have been working in the field for 2 years and we will be more than happy to provide you the best services at a more than competitive price. ",
+        "Why": [
+            "Quality of the service",
+            "Rapidity",
+            "(almost) Unlimited Personalisation",
+            "Competitive Price"
+        ],
+        "Why2": [
+            "Experience",
+            "A positive feedback",
+            "Easy outreach"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-server",
+            "name": "Website creation",
+            "text": "Build the perfect website that matches your businness"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "Social  Media Marketing",
+            "text": "Make your product known to the right people at the right time"
+        },
+        {
+            "icon": "fa fa-facebook",
+            "name": "Facebook Ads creation",
+            "text": "Let us help you create a personnalized ad for your businness of Facebook."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "Language translation",
+            "text": "We Offer high quality translation services in languages like: french, english, kirundi and kiswahili."
+        },
+        {
+            "icon": "fa fa-laptop",
+            "name": "Graphic Design",
+            "text": "We offer high quality graphic design services, photo editing and also video editing all at a ridiculusly cheap price."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Data Mining",
+            "text": "Do you happen to have a bunch of data and want to extract the useful info from it, let us help you."
+        }
+
+
+    ],
+    "Testimonials": [{
+        "img": "img/testimonials/peter.webp",
+        "text": "\"When I Encountered Nuyu Agency, my expectations were really low for such a young agency, but the quality and the speed of the delivery really impressed me.\"",
+        "name": "Peter"
+    }],
+    "Team": [{
+            "img": "img/team/prince.png",
+            "name": "Musore Prince",
+            "job": "Director and lead graphic designer"
+        },
+        {
+            "img": "img/team/freeman.jpg",
+            "name": "Freeman Irabaruta",
+            "job": "CTO and lead sofware developper"
+        }
+    ],
+    "Contact": {
+        "address": "Kinindo",
+        "phone": "+257 71 82 11 38",
+        "email": "nuyuag@gmail.com",
+        "facebook": "https://web.facebook.com/NUYU-Agency-102537391901356",
+        "twitter": "https://twitter.com",
+        "youtube": "https://youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Social Media Marketing",
+            "text": "Make your product known to the right people at the right time"
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Facebook ads creation",
+            "text": "Let us help you create a personnalized ad for your businness of Facebook"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Website creation",
+            "text": "Explore our different offers in website creation and choose the one that suits your businness"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Graphic Design",
+            "text": "We also provide different services in graphic design"
+        }
+    ]
+}
