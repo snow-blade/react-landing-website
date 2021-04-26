@@ -15,7 +15,7 @@
         ],
         "Why2": [
             "Experience",
-            "A positive feedback",
+            "A pos itive feedback",
             "Easy outreach"
         ]
     },
@@ -58,12 +58,12 @@
         "name": "Peter"
     }],
     "Team": [{
-            "img": "img/team/prince.png",
+            "img": "img/team/Prince.png",
             "name": "Musore Prince",
             "job": "CEO and lead graphic designer"
         },
         {
-            "img": "img/team/freeman.jpg",
+            "img": "img/team/Freeman.png",
             "name": "Freeman Irabaruta",
             "job": "CTO and lead sofware developper"
         }
@@ -73,8 +73,8 @@
         "phone": "+257 71 82 11 38",
         "email": "nuyuag@gmail.com",
         "facebook": "https://web.facebook.com/NUYU-Agency-102537391901356",
-        "twitter": "https://twitter.com",
-        "youtube": "https://youtube.com"
+        "instagram": "https://www.instagram.com/nuyu.agency/",
+        "twitter": "https://twitter.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",

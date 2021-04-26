@@ -18,6 +18,7 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
+            <img src = "https://i.imgur.com/Ddu8Llo.png" alt="ss" class="img-nav" width="50" height = "50"></img>
             <a className="navbar-brand page-scroll" href="#page-top">
               Nuyu Agency
             </a>{" "}
